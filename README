@@ -1,0 +1,10 @@
+Small and lightweight set of tools to create dashboards, imposed by balanced
+scorecards system, which is so beloved by all senior managers and amateur suits.
+Main goal of this activity is to create the layer which provides an access to
+the data below. So that all these indicators, those could be fetched from
+databases, web-services, Excel spreadsheets, other sources with the little help
+of similiar php-classes or web-services.
+Next step is to provide the simplest interface possible to allow manual KPI data
+entry and dashboard creation so that metrics data, entered manually, could be
+combined into different dashboards and used instead of lousy spreadsheet-based
+BSC dashboards.
